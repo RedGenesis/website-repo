@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/Miami-Desktop-Backgrounds.jpg");
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.block {
+    height: 400px;
+    width: 400px;
+}
+
+p {
+    background-color:black;
+    color: orange;
+    font-weight: bolder;
+}
+
+.picture {
+    height: 20rem;
+    width: 75%;
+}
