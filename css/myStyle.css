@@ -23,3 +23,8 @@ p {
     height: 20rem;
     width: 75%;
 }
+
+#label {
+    background-color: black;
+    color: orange;
+}
